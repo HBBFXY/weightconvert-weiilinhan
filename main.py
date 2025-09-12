@@ -1,4 +1,4 @@
-weight=input("请输入重量:")
+weight=input()
 num=float(weight[:-2])
 unit=weight[-2:]
 if unit=="kg":
